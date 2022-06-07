@@ -2,6 +2,8 @@
 
 [![SongtaoGui's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtaogui)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songtaogui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=songtaogui)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
