@@ -1,6 +1,6 @@
 ### Songtao Gui 桂松涛
 
-[Github](https://github.com/songtaogui) | [Twitter](https://twitter.com/SongtaoGui) | [Google Scholar](https://scholar.google.com/citations?user=1LAvdloAAAAJ) | [ORCID](http://orcid.org/0000-0001-6718-982X) | [ZEAMAP](https://www.zeamap.com)
+[Github](https://github.com/songtaogui) | [Twitter](https://twitter.com/SongtaoGui) | [Google Scholar](https://scholar.google.com/citations?user=1LAvdloAAAAJ) | [ORCID](http://orcid.org/0000-0001-6718-982X) | [ZEAMAP](http://www.zeamap.com/)
 
 Postdoctoral researcher
 National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China
