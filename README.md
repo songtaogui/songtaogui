@@ -4,7 +4,7 @@
 
 
 #### Professor (tenure track)
-National Key Laboratory of Wheat Breeding, Shandong Agricultural University, Tai'an, China
+National Key Laboratory of Wheat Breeding, Shandong Agricultural University, Tai'an, 271018, China
 
 <a href="https://gitstar-ranking.com/songtaogui">
 <img src="https://github-readme-stats.vercel.app/api?username=songtaogui&include_all_commits=true&theme=swift&show_icons=true&bg_color=fff)" align="right" width=430 />
